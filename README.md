@@ -13,6 +13,7 @@ Yet, if this question were posed to active traders, with a probability of over 8
 
 
 In 1929, he famously shorted the entire United States, prompting the White House to request him to cease; he also shorted cotton futures, turning into a legendary trader where the market could scarcely find a bale of cotton. His memoir, "Reminiscences of a Stock Operator," documenting his career, was published in 1940. Even after over 80 years, this book remains essential reading for successful traders.
+![Uploading image.png…]()
 
 <!--
 **AlitaGPT/AlitaGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
