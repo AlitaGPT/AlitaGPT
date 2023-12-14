@@ -3,6 +3,9 @@
 ## From a Legendary Trader
 
 **Question: Who is the most influential investment and trading master in modern history?**
+**Buffett? Soros?**
+Yet, if this question were posed to active traders, with a probability of over 80%, there would be only one answer
+
 <!--
 **AlitaGPT/AlitaGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
