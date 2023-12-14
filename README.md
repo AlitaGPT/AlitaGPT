@@ -6,7 +6,9 @@
 
 
 **Buffett? Soros?**
-Yet, if this question were posed to active traders, with a probability of over 80%, there would be only one answer. 
+Yet, if this question were posed to active traders, with a probability of over 80%, there would be only one answer.
+
+
 **Jesse Livermore**
 
 
