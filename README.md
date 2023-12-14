@@ -1,6 +1,8 @@
 # AlitaGPT Lite Paper: A Rational AI Model for Trading Markets
  
 ## From a Legendary Trader
+
+**Question: Who is the most influential investment and trading master in modern history?**
 <!--
 **AlitaGPT/AlitaGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
