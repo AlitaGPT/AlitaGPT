@@ -22,8 +22,10 @@ However, trading execution devoid of "human instincts" is precisely the advantag
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   
-
+<p align="center">
 <img src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/f1ee2f35-310b-49c0-9d3d-a0f64f5cabfd" alt="![微信图片_20231215123135]" width="400" height="600" align="centre">
+</p>
+  
 </div>
 
 
