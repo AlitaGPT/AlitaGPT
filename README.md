@@ -20,9 +20,11 @@ In 1929, he famously shorted the entire United States, prompting the White House
 His memoir, "Reminiscences of a Stock Operator," documenting his career, was published in 1940. Even after over 80 years, this book remains essential reading for successful traders. Within its pages, numerous trading strategies and principles are discussed, but prominently emphasized is the requirement for traders to counteract their innate human instincts in the midst of trading.
 However, trading execution devoid of "human instincts" is precisely the advantage of AI.
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  
 
 <img src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/f1ee2f35-310b-49c0-9d3d-a0f64f5cabfd" alt="![微信图片_20231215123135]" width="400" align="centre">
-
+</div>
 
 
 ## 1.Training
