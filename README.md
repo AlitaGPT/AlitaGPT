@@ -55,6 +55,7 @@ Volume 11, Issue 1, Pages 157-160, 2023"
 <p align="center">
 <img width="400" alt="Picture5" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/97842953-cdcb-4048-93e8-718bb81c324e">
 </p>
+
 ### Keep right
 
 **Jesse Livermore**: "As long as a stock is acting right, and the market is right, do not be in a hurry to take profits"
