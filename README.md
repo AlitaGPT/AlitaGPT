@@ -40,14 +40,15 @@ Throughout his career, Willie gained a profound understanding of the complexitie
 
 On February 14, 2019, inspired after watching the movie 'Alita: Battle Angel,' Willie, a fellow 'metallic person,' rebranded the project as 'AlitaAI.' Despite not achieving a qualitative breakthrough in AI technology during the early AI era, the team endeavored to create more value and opportunities for users in the field of financial investment.
 
-<img width="237" alt="Picture2" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/5a46d797-51f9-45bb-a7dd-3907b3453ae5">
+
+<img width="400" alt="Picture2" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/5a46d797-51f9-45bb-a7dd-3907b3453ae5">
 
 The release of ChatGPT in June 2012 opened a new path for AlitaAI. Leveraging the ChatGPT large model, integrating professional data and innovative algorithms accumulated by AlitaAI, the team further trained a neural network large model tailored to the financial domain. In November 2022, the LM version of AlitaAI was launched, officially rebranded as AlitaGPT.
 Excerpts from 'The AlitaGPT Trilogy of Self-Iteration,'
 Published in the 'ACM Transactions on Intelligent Systems and Technology'
 Volume 11, Issue 1, Pages 157-160, 2023"
 
-<img width="429" alt="Picture5" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/97842953-cdcb-4048-93e8-718bb81c324e">
+<img width="400" alt="Picture5" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/97842953-cdcb-4048-93e8-718bb81c324e">
 
 ### Keep right
 
@@ -55,7 +56,7 @@ Volume 11, Issue 1, Pages 157-160, 2023"
 
 Before its launch, AlitaGPT existed as an experimental model in the academic field, remaining untouched for commercial applications. It underwent continuous testing and self-learning with large datasets within laboratory settings. At the end of 2023, with the support of multiple prominent capital entities, the LM version of AlitaGPT went live, marking its initiation into the realms of digital currency and U.S. stock trading. 
 
-![微信图片_20231215123141](https://github.com/AlitaGPT/AlitaGPT/assets/153814037/023712a6-cee2-4e49-adcf-f183051d53d0)
+<img src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/023712a6-cee2-4e49-adcf-f183051d53d0" alt="![微信图片_20231215123141]" width="400" align="centre">
 
 
 Currently, due to considerations of liquidity in the open market, this version exclusively supports U.S. stock trading and the mainstream digital currency market.
