@@ -21,7 +21,7 @@ His memoir, "Reminiscences of a Stock Operator," documenting his career, was pub
 However, trading execution devoid of "human instincts" is precisely the advantage of AI.
 
 
-<img src="![微信图片_20231215123135](https://github.com/AlitaGPT/AlitaGPT/assets/153814037/f1ee2f35-310b-49c0-9d3d-a0f64f5cabfd)" alt="![微信图片_20231215123135]" width="400" align="centre">
+<img src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/f1ee2f35-310b-49c0-9d3d-a0f64f5cabfd" alt="![微信图片_20231215123135]" width="400" align="centre">
 
 
 
