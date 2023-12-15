@@ -99,7 +99,8 @@ For instance, when the price of an asset continues to rise, some market particip
 The aforementioned is the foundational logic of AlitaGPT in understanding market trends through monitoring and analyzing market sentiment, enabling it to make corresponding investment decisions. This comprehensive approach, considering market sentiment, the impact of macroeconomic policies, and cost-level factors, allows AlitaGPT to more accurately and effectively confirm market indicators and make corresponding quantitative investment actions.
 
 
-![微信图片_20231215123141](https://github.com/AlitaGPT/AlitaGPT/assets/153814037/66508fdc-2a06-4fed-812f-5259cef64362)
+![Picture6](https://github.com/AlitaGPT/AlitaGPT/assets/153814037/7a97d4d8-ec23-4f41-9606-3213bd5a7712)
+
 
 ### Quantitative Trading AI + Defi Vault
 
