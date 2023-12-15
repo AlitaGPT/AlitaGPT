@@ -52,17 +52,17 @@ The release of ChatGPT in June 2012 opened a new path for AlitaAI. Leveraging th
 Excerpts from 'The AlitaGPT Trilogy of Self-Iteration,'
 Published in the 'ACM Transactions on Intelligent Systems and Technology'
 Volume 11, Issue 1, Pages 157-160, 2023"
-
+<p align="center">
 <img width="400" alt="Picture5" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/97842953-cdcb-4048-93e8-718bb81c324e">
-
+</p>
 ### Keep right
 
 **Jesse Livermore**: "As long as a stock is acting right, and the market is right, do not be in a hurry to take profits"
 
 Before its launch, AlitaGPT existed as an experimental model in the academic field, remaining untouched for commercial applications. It underwent continuous testing and self-learning with large datasets within laboratory settings. At the end of 2023, with the support of multiple prominent capital entities, the LM version of AlitaGPT went live, marking its initiation into the realms of digital currency and U.S. stock trading. 
-
+<p align="center">
 <img src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/023712a6-cee2-4e49-adcf-f183051d53d0" alt="![微信图片_20231215123141]" width="400" align="centre">
-
+</p>
 
 Currently, due to considerations of liquidity in the open market, this version exclusively supports U.S. stock trading and the mainstream digital currency market.
 This system boasts an advanced artificial intelligence framework, possessing robust learning capabilities and intelligent analytical skills. Not only can this system comprehensively analyze complex data in financial markets, but it can also predict market trends and risks. More importantly, it offers users personalized investment advice and intelligent financial services.
