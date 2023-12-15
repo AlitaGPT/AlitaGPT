@@ -44,8 +44,9 @@ Throughout his career, Willie gained a profound understanding of the complexitie
 
 On February 14, 2019, inspired after watching the movie 'Alita: Battle Angel,' Willie, a fellow 'metallic person,' rebranded the project as 'AlitaAI.' Despite not achieving a qualitative breakthrough in AI technology during the early AI era, the team endeavored to create more value and opportunities for users in the field of financial investment.
 
-
+<p align="center">
 <img width="400" alt="Picture2" src="https://github.com/AlitaGPT/AlitaGPT/assets/153814037/5a46d797-51f9-45bb-a7dd-3907b3453ae5">
+</p>
 
 The release of ChatGPT in June 2012 opened a new path for AlitaAI. Leveraging the ChatGPT large model, integrating professional data and innovative algorithms accumulated by AlitaAI, the team further trained a neural network large model tailored to the financial domain. In November 2022, the LM version of AlitaAI was launched, officially rebranded as AlitaGPT.
 Excerpts from 'The AlitaGPT Trilogy of Self-Iteration,'
